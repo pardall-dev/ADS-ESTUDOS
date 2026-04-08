@@ -2,11 +2,11 @@
 
 int main(int argc, char const *argv[])
 {
-    int nota1 = 10;
-    int nota2 = 15;
+    double nota1 = 10.0;
+    double nota2 = 15.0;
 
-    int media = (nota1 + nota2) / 2;
+    double media = (nota1 + nota2) / 2.0;
 
-    printf("A média das notas %d e %d foi de %d!\n", nota1, nota2, media);
+    printf("A média das notas %.1f e %.1f foi de %.1f!\n", nota1, nota2, media);
     return 0;
 }
