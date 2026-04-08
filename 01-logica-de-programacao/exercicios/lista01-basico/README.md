@@ -7,8 +7,8 @@ Exercícios iniciais para treinar lógica de programação.
 ## 📋 Exercícios
 
 - [x] Exercício 01 - Soma de dois números
-- [ ] Exercício 02 - Média de notas
-- [ ] Exercício 03 - Verificar número par ou ímpar
+- [x] Exercício 02 - Média de notas
+- [x] Exercício 03 - Verificar número par ou ímpar
 - [ ] Exercício 04 - Calculadora simples
 
 ## 💡 Observações
