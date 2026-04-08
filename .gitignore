@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Compilados de C/C++
+*.exe
+*.out
+*.o
+main
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+*.DS_Store
